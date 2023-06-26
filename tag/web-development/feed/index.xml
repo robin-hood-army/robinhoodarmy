@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home - Robin Hood Army</title>
+	<atom:link href="/tag/web-development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Empowering Minds, For Free</description>
+	<lastBuildDate>Mon, 26 Jun 2023 06:38:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Your Ultimate Roadmap to Learn Web Development from Scratch</title>
+		<link>/roadmap-to-learn-web-development/</link>
+					<comments>/roadmap-to-learn-web-development/#respond</comments>
+		
+		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
+		<pubDate>Mon, 26 Jun 2023 06:23:30 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[web dev]]></category>
+		<category><![CDATA[web dev roadmap]]></category>
+		<category><![CDATA[web development]]></category>
+		<guid isPermaLink="false">/?p=840</guid>
+
+					<description><![CDATA[<p>Introduction: Are you itching to get started in the exciting field of web development? This detailed roadmap to learn web development will lead you through the fundamental processes required to become a proficient web developer, whether you&#8217;re just starting out or already have some expertise with programming. Let&#8217;s take this fascinating adventure together, from learning &#8230;</p>
+<p class="read-more"> <a class="" href="/roadmap-to-learn-web-development/"> <span class="screen-reader-text">Your Ultimate Roadmap to Learn Web Development from Scratch</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/roadmap-to-learn-web-development/">Your Ultimate Roadmap to Learn Web Development from Scratch</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Introduction:</h2>
+
+
+
+<p>Are you itching to get started in the exciting field of <a data-type="category" data-id="6" href="/category/web-development/" target="_blank" rel="noreferrer noopener">web development</a>? This detailed roadmap to learn <a href="/category/web-development/" target="_blank" rel="noreferrer noopener">web development</a> will lead you through the fundamental processes required to become a proficient web developer, whether you&#8217;re just starting out or already have some expertise with programming. Let&#8217;s take this fascinating adventure together, from learning the fundamentals of HTML and CSS to exploring advanced programming languages and frameworks. Robin Hood brings you this beautiful roadmap to learn web development! Also as you go through this roadmap to learn web development, don&#8217;t forget to check out the links and resources in between.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-1">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Part 1: Contextualisation</h2>
+
+
+
+<h3 class="wp-block-heading">The Basics of HTML and CSS: A Primer</h3>
+
+
+
+<ul>
+<li>The Basics of HTML and CSS</li>
+
+
+
+<li>Realizing how HTML is put together</li>
+
+
+
+<li>Making a Website for the First Time</li>
+
+
+
+<li>HTML and CSS Web Design</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Using Java Script to Create Dynamic Web Content</h3>
+
+
+
+<ul>
+<li>A Primer on JavaScript Variables and Data Types</li>
+
+
+
+<li>Using conditionals and loops to regulate the process</li>
+
+
+
+<li>Functional and event enhancements for a better user experience.</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-2">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Part 2: Adding to Your Collection of Resources</h2>
+
+
+
+<h3 class="wp-block-heading">Backend Development for Dynamic Website Construction</h3>
+
+
+
+<ul>
+<li>An Overview of Back-End Coding</li>
+
+
+
+<li>Studying back-end programming languages like Python and Node.js</li>
+
+
+
+<li>Management of data and database administration</li>
+
+
+
+<li>Bringing together the two halves of a web application&#8217;s infrastructure</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Learning the Ropes of Front-End Frameworks</h3>
+
+
+
+<ul>
+<li>Recognizing the Importance of Front-End Frameworks</li>
+
+
+
+<li>Digging into well-known frameworks like React and Angular</li>
+
+
+
+<li>Making engaging interfaces for users is a breeze.</li>
+
+
+
+<li>Developing quickly and effectively with a component-based design</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-3">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Part 3: Practice and Perfection</h2>
+
+
+
+<h3 class="wp-block-heading">Mobile Optimisation and Responsive Web Design</h3>
+
+
+
+<ul>
+<li>The Value of Mobile-Friendly Websites</li>
+
+
+
+<li>Including device-specific media queries in code</li>
+
+
+
+<li>Enhancing the mobile experience</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Improving the User Interface and Experience</h3>
+
+
+
+<ul>
+<li>Overview of User Interface and User Experience</li>
+
+
+
+<li>Creating user-friendly and aesthetically pleasing interfaces</li>
+
+
+
+<li>User testing and research administration</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-4">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Part Four: Climbing the Professional Ladder</h2>
+
+
+
+<h3 class="wp-block-heading">Version Management and Teamwork with Git</h3>
+
+
+
+<ul>
+<li>Realizing the significance of version control</li>
+
+
+
+<li>How to Use <a href="https://git-scm.com/docs/gittutorial" target="_blank" rel="noreferrer noopener">Git</a> and <a href="https://docs.github.com/en/get-started" target="_blank" rel="noreferrer noopener">GitHub</a> for the First Time</li>
+
+
+
+<li>Using Git to coordinate with other programmers</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Web Application Deployment</h3>
+
+
+
+<ul>
+<li>Getting your code ready for release.</li>
+
+
+
+<li>Checking out several hosting providers (like <a href="https://www.heroku.com/" target="_blank" rel="noreferrer noopener">Heroku</a> and <a href="https://www.netlify.com/" target="_blank" rel="noreferrer noopener">Netlify</a>)</li>
+
+
+
+<li>Controlling your domain and releasing software</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-5">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>In closing, I want to congratulate you on reaching the end of this <a href="/category/web-development/">web development</a> road map. You&#8217;ll be well on your way to becoming a good web developer if you follow these instructions and keep practicing. It&#8217;s important to constantly developing your skillset by learning about cutting-edge tools, following the latest developments in your field, and implementing innovative ideas. Enjoy the process of bringing your creative ideas to life on the web, despite the obstacles you may encounter.</p>
+<p>The post <a rel="nofollow" href="/roadmap-to-learn-web-development/">Your Ultimate Roadmap to Learn Web Development from Scratch</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/roadmap-to-learn-web-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

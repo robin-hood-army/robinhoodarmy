@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Robin Hood Army</title>
+	<title>Home - Robin Hood Army</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Empowering Minds, For Free</description>
-	<lastBuildDate>Sun, 25 Jun 2023 20:27:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jun 2023 15:01:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,565 +20,608 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<title>Zaid Security Ethical Hacking Udemy</title>
+		<link>/ethical-hacking-full-course/</link>
+					<comments>/ethical-hacking-full-course/#respond</comments>
 		
 		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Sun, 25 Jun 2023 20:23:40 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Don’t Miss the Film Festival: Top 3 movies to watch in July</title>
-		<link>/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-enim/</link>
-					<comments>/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-enim/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:39:43 +0000</pubDate>
-				<category><![CDATA[Affiliate Marketing]]></category>
-		<guid isPermaLink="false">/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-enim/</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="46" class="elementor elementor-46">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-778bd0da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="778bd0da" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-428bc3e2" data-id="428bc3e2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-685bb59f elementor-widget elementor-widget-text-editor" data-id="685bb59f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 18-06-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-084a6ac elementor-widget elementor-widget-text-editor" data-id="084a6ac" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-d9ebe14 elementor-widget elementor-widget-text-editor" data-id="d9ebe14" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-7f83149 elementor-widget elementor-widget-heading" data-id="7f83149" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 18-06-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3bc6364 elementor-widget elementor-widget-text-editor" data-id="3bc6364" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-1e87929 elementor-widget elementor-widget-text-editor" data-id="1e87929" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-f306742 elementor-widget elementor-widget-text-editor" data-id="f306742" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-enim/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fawn Sebastian talking about the Art of Color Correction, Part One</title>
-		<link>/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/</link>
-					<comments>/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:39:26 +0000</pubDate>
-				<category><![CDATA[Web Development]]></category>
-		<guid isPermaLink="false">/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="44" class="elementor elementor-44">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-cb7af95 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb7af95" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e0eeeb1" data-id="e0eeeb1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-3080a03 elementor-widget elementor-widget-text-editor" data-id="3080a03" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-c248de2 elementor-widget elementor-widget-text-editor" data-id="c248de2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-3355d78 elementor-widget elementor-widget-text-editor" data-id="3355d78" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-47fd2f6 elementor-widget elementor-widget-heading" data-id="47fd2f6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-fdecc31 elementor-widget elementor-widget-text-editor" data-id="fdecc31" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-cab2e4e elementor-widget elementor-widget-text-editor" data-id="cab2e4e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-89d0ef7 elementor-widget elementor-widget-text-editor" data-id="89d0ef7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fawn Sebastian talking about the Art of Color Correction, Part Two</title>
-		<link>/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/</link>
-					<comments>/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:39:07 +0000</pubDate>
-				<category><![CDATA[Web Development]]></category>
-		<guid isPermaLink="false">/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="41" class="elementor elementor-41">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-7bb1e09 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bb1e09" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-981362a" data-id="981362a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1530abe elementor-widget elementor-widget-text-editor" data-id="1530abe" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-4576bf9 elementor-widget elementor-widget-text-editor" data-id="4576bf9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-47a9502 elementor-widget elementor-widget-text-editor" data-id="47a9502" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-58eba8b elementor-widget elementor-widget-heading" data-id="58eba8b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-9613a31 elementor-widget elementor-widget-text-editor" data-id="9613a31" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-4ad2350 elementor-widget elementor-widget-text-editor" data-id="4ad2350" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-4b73692 elementor-widget elementor-widget-text-editor" data-id="4b73692" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>10 super awesome illustrations to be inspired by</title>
-		<link>/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/</link>
-					<comments>/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:38:53 +0000</pubDate>
-				<category><![CDATA[Blogs]]></category>
-		<guid isPermaLink="false">/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="39" class="elementor elementor-39">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-77e28f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77e28f4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b2f9c8" data-id="5b2f9c8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6ca0a28 elementor-widget elementor-widget-text-editor" data-id="6ca0a28" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-56cdecc elementor-widget elementor-widget-text-editor" data-id="56cdecc" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-7cd6188 elementor-widget elementor-widget-text-editor" data-id="7cd6188" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-d06077f elementor-widget elementor-widget-heading" data-id="d06077f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2ae7af0 elementor-widget elementor-widget-text-editor" data-id="2ae7af0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-acc7fca elementor-widget elementor-widget-text-editor" data-id="acc7fca" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-e1ec46c elementor-widget elementor-widget-text-editor" data-id="e1ec46c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ten bone-crunching male-driven action films we love</title>
-		<link>/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-voluptatem/</link>
-					<comments>/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-voluptatem/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:38:37 +0000</pubDate>
-				<category><![CDATA[Affiliate Marketing]]></category>
-		<guid isPermaLink="false">/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-voluptatem/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-voluptatem/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Free backgrounds: Where to get the coolest backgrounds for your projects</title>
-		<link>/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/</link>
-					<comments>/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:38:22 +0000</pubDate>
-				<category><![CDATA[Blogs]]></category>
-		<guid isPermaLink="false">/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="35" class="elementor elementor-35">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-ce640d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ce640d9" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de7ffae" data-id="de7ffae" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ee9b9df elementor-widget elementor-widget-text-editor" data-id="ee9b9df" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-146b724 elementor-widget elementor-widget-text-editor" data-id="146b724" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-43db217 elementor-widget elementor-widget-text-editor" data-id="43db217" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-1be5de9 elementor-widget elementor-widget-heading" data-id="1be5de9" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-cd8fc12 elementor-widget elementor-widget-text-editor" data-id="cd8fc12" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-759f554 elementor-widget elementor-widget-text-editor" data-id="759f554" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-74e04f9 elementor-widget elementor-widget-text-editor" data-id="74e04f9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Milk as you&#8217;ve never seen it before; greatest advertising stunt</title>
-		<link>/sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-voluptatem-accusantium/</link>
-					<comments>/sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-voluptatem-accusantium/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:38:06 +0000</pubDate>
-				<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">/sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-voluptatem-accusantium/</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="33" class="elementor elementor-33">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-d74bbac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d74bbac" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5a8837" data-id="e5a8837" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4fd890f elementor-widget elementor-widget-text-editor" data-id="4fd890f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-8de0744 elementor-widget elementor-widget-text-editor" data-id="8de0744" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-795c6b7 elementor-widget elementor-widget-text-editor" data-id="795c6b7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-c2c32a6 elementor-widget elementor-widget-heading" data-id="c2c32a6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3a00210 elementor-widget elementor-widget-text-editor" data-id="3a00210" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-0e4201e elementor-widget elementor-widget-text-editor" data-id="0e4201e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-5f0382d elementor-widget elementor-widget-text-editor" data-id="5f0382d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-voluptatem-accusantium/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>2021 Advertising Trends: here’s what nobody is talking about</title>
-		<link>/doloremque-laudantium-totam-rem-aperiam-eaque-ipsa-quae-ab-illo-inven/</link>
-					<comments>/doloremque-laudantium-totam-rem-aperiam-eaque-ipsa-quae-ab-illo-inven/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:37:50 +0000</pubDate>
-				<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">/doloremque-laudantium-totam-rem-aperiam-eaque-ipsa-quae-ab-illo-inven/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/doloremque-laudantium-totam-rem-aperiam-eaque-ipsa-quae-ab-illo-inven/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The best stylus for Android devices can turn your tablet into a creative tool</title>
-		<link>/neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-magnam/</link>
-					<comments>/neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-magnam/#respond</comments>
-		
-		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 10:37:38 +0000</pubDate>
+		<pubDate>Mon, 26 Jun 2023 15:01:17 +0000</pubDate>
 				<category><![CDATA[Ethical Hacking]]></category>
-		<guid isPermaLink="false">/neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-magnam/</guid>
+		<category><![CDATA[ethical hacking]]></category>
+		<category><![CDATA[ethical hacking by zaid security]]></category>
+		<category><![CDATA[ethical hacking roadmap]]></category>
+		<category><![CDATA[ethical hacking udemy]]></category>
+		<category><![CDATA[ethical hacking udemy full course]]></category>
+		<category><![CDATA[learn ethical hacking]]></category>
+		<guid isPermaLink="false">/?p=864</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="29" class="elementor elementor-29">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-470bb43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="470bb43" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d1dd0e" data-id="0d1dd0e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-357ec8f elementor-widget elementor-widget-text-editor" data-id="357ec8f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-2c6ce02 elementor-widget elementor-widget-text-editor" data-id="2c6ce02" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<blockquote>
-<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
-</blockquote>						</div>
-				</div>
-				<div class="elementor-element elementor-element-3d8bc04 elementor-widget elementor-widget-text-editor" data-id="3d8bc04" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-ea1f37f elementor-widget elementor-widget-heading" data-id="ea1f37f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-f542524 elementor-widget elementor-widget-text-editor" data-id="f542524" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-ac19f96 elementor-widget elementor-widget-text-editor" data-id="ac19f96" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<ul>
-<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
-<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
-</ul>
-<!-- /wp:paragraph -->						</div>
-				</div>
-				<div class="elementor-element elementor-element-07aa0cb elementor-widget elementor-widget-text-editor" data-id="07aa0cb" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
+					<description><![CDATA[<p>This is a full blown professional Udemy course on Ethical Hacking by Zaid Security. Download the videos if required and also don&#8217;t forget to get the extra bonus materials at the end of the page. Watch this ethical hacking full course for absolutely free! Part 1 Introduction Part 2 Writing a MAC Address Changer &#8211; &#8230;</p>
+<p class="read-more"> <a class="" href="/ethical-hacking-full-course/"> <span class="screen-reader-text">Zaid Security Ethical Hacking Udemy</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/ethical-hacking-full-course/">Zaid Security Ethical Hacking Udemy</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>This is a full blown professional Udemy <a href="/courses/" target="_blank" rel="noreferrer noopener">course</a> on Ethical Hacking by Zaid Security. Download the videos if required and also don&#8217;t forget to get the extra bonus materials at the end of the page. Watch this ethical hacking <a href="/courses/">full course for absolutely free</a>!</p>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-2">
+<h3 class="wp-block-heading">Part 1 Introduction</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/fvok6h5j4u81" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/onj38atqo9yxlgqoa7pec2s90kgjv0c8" target="_blank" rel="noreferrer noopener">Download part 1</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-3">
+<div class="wp-block-button"><a class="wp-block-button__link has-pale-cyan-blue-background-color has-background wp-element-button" href="/category/blogs/" target="_blank" rel="noreferrer noopener">check out our blogs !!!</a></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-5">
+<h3 class="wp-block-heading">Part 2 Writing a MAC Address Changer &#8211; Python Basics</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/64g2zi3zq063ycn2pw8tzus8gqerfj0i" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/epzwssvavfly7jegvaeo7akrct21ashi" target="_blank" rel="noreferrer noopener">Download part 2</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-7">
+<h3 class="wp-block-heading">Part 3 MAC Changer &#8211; Algorithm Design</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/gxert8e0dlf9vfqp8xhkkdkdf2kvkpal" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/7m7dveny4f27yz2oa8kkoszpmgenhuw4" target="_blank" rel="noreferrer noopener">Download part 3</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-9">
+<h3 class="wp-block-heading">Part 4 Programming a Network Scanner</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/g5s35t0kffivw8fgkinbnwj9wxtxnkyh" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/kltutvblhlizbv2i7h2eg0j68u7vzef4" target="_blank" rel="noreferrer noopener">Download part 4</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-11">
+<h3 class="wp-block-heading">Part 5 Writing an ARP Spoofer</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/mpidembbhsluyetjsa0x6oje6rbvwsjd" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/6zedwa42c2pa4bzecln5g6ie2atercev" target="_blank" rel="noreferrer noopener">Download part 5</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-13">
+<h3 class="wp-block-heading">Part 6 Writing a Packet Sniffer</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/jcymdipb7phxcyed82ey7cf1oz9tvfff" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/e8g3otjok2r1u11m4ir8fkax49i5t0mv" target="_blank" rel="noreferrer noopener">Download part 6</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-15">
+<h3 class="wp-block-heading">Part 7 Writing a DNS Spoofer</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/80oa2x6ao6iouhyap2gemz1468dxfvqc" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/pyntherjw9gozsijgu1vipovb2r18w7r" target="_blank" rel="noreferrer noopener">Download part 7</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-17">
+<h3 class="wp-block-heading">Part 8 Writing a File Interceptor</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/2ufeko2xtglbohfkj0jajrcnibgp17me" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/skgnaawyga60hmmeepor43to0ymgi45f" target="_blank" rel="noreferrer noopener">Download part 8</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-18">
+<div class="wp-block-button"><a class="wp-block-button__link has-pale-cyan-blue-background-color has-background wp-element-button" href="/courses/" target="_blank" rel="noreferrer noopener">check out our courses !!!</a></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-20">
+<h3 class="wp-block-heading">Part 9 Writing a Code Injector</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/v122u2ckfujfr0tud7hifzt5hlo7mnxv" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/jd5vz2qaw4rv41vewrrrg8jxywyi0065" target="_blank" rel="noreferrer noopener">Download part 9</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-22">
+<h3 class="wp-block-heading">Part 10 Bypassing HTTPS</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/h6pf8pytzg1rps6n99smbxxm2qgqkher" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/ds5gabb4bk98kuskqepq6e5qpr20ax03" target="_blank" rel="noreferrer noopener">Download part 10</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-24">
+<h3 class="wp-block-heading">Part 11 Writing An ARP Spoof Detector</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/d87v3m9bdkhot4vj3uprq83xkow0p6b9" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/xr64i5noi55mme9hk21bfur9nf6ujrd5" target="_blank" rel="noreferrer noopener">Download part 11</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-26">
+<h3 class="wp-block-heading">Part 12 Writing Malware</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/cizmqdcwotga8x20cwrxz8quhs9kxnoa" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/ud1g2q9upod786dkee6ci9c94sgertt5" target="_blank" rel="noreferrer noopener">Download part 12</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-28">
+<h3 class="wp-block-heading">Part 13 Writing Malware &#8211; Keylogger</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/50m0lvtege7sgyxap6e0my9q2cqgock5" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/1ht01ovudwoaoyik7od9ujem07mn3sb0" target="_blank" rel="noreferrer noopener">Download part 13</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-30">
+<h3 class="wp-block-heading">Part 14 Writing Malware &#8211; Backdoors</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/f249tdqz6vrld81nlny74nzy3gqducwo" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/chyy0lhq1oaji7yrfqj2cdov6ynzuqvs" target="_blank" rel="noreferrer noopener">Download part 14</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-32">
+<h3 class="wp-block-heading">Part 15 Writing Malware &#8211; Packaging</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/erdi5rzjuaeuikxp30gzd5ccw0tt53ni" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/rvy3yb3obju3votweyio3xqyk6eebyr3" target="_blank" rel="noreferrer noopener">Download part 15</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-34">
+<h3 class="wp-block-heading">Part 16 Website Web Application Hacking</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/hzvxsya5d6det6ejc82b0t20bnh8smq2" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/58ntsnrdurwvzxaoxsokngsbaqiugxif" target="_blank" rel="noreferrer noopener">Download part 16</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-35">
+<div class="wp-block-button"><a class="wp-block-button__link has-pale-cyan-blue-background-color has-background wp-element-button" href="/category/ethical-hacking/" target="_blank" rel="noreferrer noopener">check out our blogs on ethical hacking !!!</a></div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-37">
+<h3 class="wp-block-heading">Part 17 Website Hacking &#8211; Writing a Crawler</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/n1fnljo0tvjkhanwk0vsg4kjlqeioknx" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/z5uj5b184x3z62qrge88rkbxnrs9h2vg" target="_blank" rel="noreferrer noopener">Download part 17</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-39">
+<h3 class="wp-block-heading">Part 18 Writing a Program to Guess Login Information</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/yw0nq5o9u1c4g4hzksybixuf45bf5z10" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/et0x8pe2r728uvshts43won3xwea0bob" target="_blank" rel="noreferrer noopener">Download part 18</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-41">
+<h3 class="wp-block-heading">Part 19 Writing a Vulnerability Scanner</h3>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/8baxteaqxhw39rxbvbd8n0prla513w8j" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/berqkwev76bya5nki97w492g6nodsvaz" target="_blank" rel="noreferrer noopener">Download part 19</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-42">
+<div class="wp-block-button"><a class="wp-block-button__link has-ast-global-color-1-background-color has-background wp-element-button" href="https://mega.nz/file/pXFWiQYB#Gq9wGOuNqFnRfAoIYTsGfMJRADbilrQ9Y4ReW8V9xkE" target="_blank" rel="noreferrer noopener">Download bonus materials</a></div>
+</div>
+
+
+
+<p>Ethical hacking, also called &#8220;white-hat hacking,&#8221; is when computer security experts use their skills and knowledge to find weaknesses in computer systems and networks. It is done with the owner&#8217;s permission and is meant to make the system safer, not hurt it. Ethical hackers use methods like penetration testing and vulnerability assessments to find flaws that bad hackers could take advantage of. By finding these weaknesses, ethical hackers help organizations strengthen their defenses, protect private information, and stop cyber attacks. Ethical hacking is basically a friendly fight between security experts and possible attackers. The goal is to make the digital world safer. The above ethical hacking full course gives you all the necessary resources to understand the topic completely.</p>
+<p>The post <a rel="nofollow" href="/ethical-hacking-full-course/">Zaid Security Ethical Hacking Udemy</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></content:encoded>
 					
-					<wfw:commentRss>/neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-magnam/feed/</wfw:commentRss>
+					<wfw:commentRss>/ethical-hacking-full-course/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Your Ultimate Roadmap to Learn Web Development from Scratch</title>
+		<link>/roadmap-to-learn-web-development/</link>
+					<comments>/roadmap-to-learn-web-development/#respond</comments>
+		
+		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
+		<pubDate>Mon, 26 Jun 2023 06:23:30 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[web dev]]></category>
+		<category><![CDATA[web dev roadmap]]></category>
+		<category><![CDATA[web development]]></category>
+		<guid isPermaLink="false">/?p=840</guid>
+
+					<description><![CDATA[<p>Introduction: Are you itching to get started in the exciting field of web development? This detailed roadmap to learn web development will lead you through the fundamental processes required to become a proficient web developer, whether you&#8217;re just starting out or already have some expertise with programming. Let&#8217;s take this fascinating adventure together, from learning &#8230;</p>
+<p class="read-more"> <a class="" href="/roadmap-to-learn-web-development/"> <span class="screen-reader-text">Your Ultimate Roadmap to Learn Web Development from Scratch</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/roadmap-to-learn-web-development/">Your Ultimate Roadmap to Learn Web Development from Scratch</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Introduction:</h2>
+
+
+
+<p>Are you itching to get started in the exciting field of <a data-type="category" data-id="6" href="/category/web-development/" target="_blank" rel="noreferrer noopener">web development</a>? This detailed roadmap to learn <a href="/category/web-development/" target="_blank" rel="noreferrer noopener">web development</a> will lead you through the fundamental processes required to become a proficient web developer, whether you&#8217;re just starting out or already have some expertise with programming. Let&#8217;s take this fascinating adventure together, from learning the fundamentals of HTML and CSS to exploring advanced programming languages and frameworks. Robin Hood brings you this beautiful roadmap to learn web development! Also as you go through this roadmap to learn web development, don&#8217;t forget to check out the links and resources in between.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-43">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Part 1: Contextualisation</h2>
+
+
+
+<h3 class="wp-block-heading">The Basics of HTML and CSS: A Primer</h3>
+
+
+
+<ul>
+<li>The Basics of HTML and CSS</li>
+
+
+
+<li>Realizing how HTML is put together</li>
+
+
+
+<li>Making a Website for the First Time</li>
+
+
+
+<li>HTML and CSS Web Design</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Using Java Script to Create Dynamic Web Content</h3>
+
+
+
+<ul>
+<li>A Primer on JavaScript Variables and Data Types</li>
+
+
+
+<li>Using conditionals and loops to regulate the process</li>
+
+
+
+<li>Functional and event enhancements for a better user experience.</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-44">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Part 2: Adding to Your Collection of Resources</h2>
+
+
+
+<h3 class="wp-block-heading">Backend Development for Dynamic Website Construction</h3>
+
+
+
+<ul>
+<li>An Overview of Back-End Coding</li>
+
+
+
+<li>Studying back-end programming languages like Python and Node.js</li>
+
+
+
+<li>Management of data and database administration</li>
+
+
+
+<li>Bringing together the two halves of a web application&#8217;s infrastructure</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Learning the Ropes of Front-End Frameworks</h3>
+
+
+
+<ul>
+<li>Recognizing the Importance of Front-End Frameworks</li>
+
+
+
+<li>Digging into well-known frameworks like React and Angular</li>
+
+
+
+<li>Making engaging interfaces for users is a breeze.</li>
+
+
+
+<li>Developing quickly and effectively with a component-based design</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-45">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Part 3: Practice and Perfection</h2>
+
+
+
+<h3 class="wp-block-heading">Mobile Optimisation and Responsive Web Design</h3>
+
+
+
+<ul>
+<li>The Value of Mobile-Friendly Websites</li>
+
+
+
+<li>Including device-specific media queries in code</li>
+
+
+
+<li>Enhancing the mobile experience</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Improving the User Interface and Experience</h3>
+
+
+
+<ul>
+<li>Overview of User Interface and User Experience</li>
+
+
+
+<li>Creating user-friendly and aesthetically pleasing interfaces</li>
+
+
+
+<li>User testing and research administration</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-46">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Part Four: Climbing the Professional Ladder</h2>
+
+
+
+<h3 class="wp-block-heading">Version Management and Teamwork with Git</h3>
+
+
+
+<ul>
+<li>Realizing the significance of version control</li>
+
+
+
+<li>How to Use <a href="https://git-scm.com/docs/gittutorial" target="_blank" rel="noreferrer noopener">Git</a> and <a href="https://docs.github.com/en/get-started" target="_blank" rel="noreferrer noopener">GitHub</a> for the First Time</li>
+
+
+
+<li>Using Git to coordinate with other programmers</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Web Application Deployment</h3>
+
+
+
+<ul>
+<li>Getting your code ready for release.</li>
+
+
+
+<li>Checking out several hosting providers (like <a href="https://www.heroku.com/" target="_blank" rel="noreferrer noopener">Heroku</a> and <a href="https://www.netlify.com/" target="_blank" rel="noreferrer noopener">Netlify</a>)</li>
+
+
+
+<li>Controlling your domain and releasing software</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-47">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">CHeck out Some of our FREE courses</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>In closing, I want to congratulate you on reaching the end of this <a href="/category/web-development/">web development</a> road map. You&#8217;ll be well on your way to becoming a good web developer if you follow these instructions and keep practicing. It&#8217;s important to constantly developing your skillset by learning about cutting-edge tools, following the latest developments in your field, and implementing innovative ideas. Enjoy the process of bringing your creative ideas to life on the web, despite the obstacles you may encounter.</p>
+<p>The post <a rel="nofollow" href="/roadmap-to-learn-web-development/">Your Ultimate Roadmap to Learn Web Development from Scratch</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/roadmap-to-learn-web-development/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
