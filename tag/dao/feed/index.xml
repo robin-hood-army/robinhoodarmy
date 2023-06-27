@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DAO Archives - Robin Hood Army</title>
+	<atom:link href="/tag/dao/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/dao/</link>
+	<description>Empowering Minds, For Free</description>
+	<lastBuildDate>Tue, 27 Jun 2023 04:00:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Learn Web 3 Blockchain, DAO, DApps &#038; More</title>
+		<link>/learn-web-3/</link>
+		
+		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2023 03:57:40 +0000</pubDate>
+				<category><![CDATA[Web 3]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[dAPP]]></category>
+		<category><![CDATA[full course to learn web 3]]></category>
+		<category><![CDATA[roadmap to learn web 3]]></category>
+		<category><![CDATA[web 3]]></category>
+		<category><![CDATA[web 3 full course]]></category>
+		<category><![CDATA[Web 3 Masterclass: Learn Web 3 ; Blockchain]]></category>
+		<category><![CDATA[what is web 3]]></category>
+		<guid isPermaLink="false">/?p=900</guid>
+
+					<description><![CDATA[<p>Dive into the world of Web 3 with our comprehensive course. Learn web 3 blockchain, decentralized apps, and decentralized finance (DeFi).</p>
+<p>The post <a rel="nofollow" href="/learn-web-3/">Learn Web 3 Blockchain, DAO, DApps &#038; More</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Web 3 Masterclass: Learn Web 3 ; Blockchain, DAO, dApps and More</h2>
+
+
+
+<h3 class="wp-block-heading">Learn Web 3</h3>
+
+
+
+<p>This course provides a thorough examination of this cutting-edge technology. Participants will acquire a comprehensive comprehension of blockchain, decentralized applications (dApps), and decentralized finance (DeFi). You will discover through hands-on training and real-world examples how Web 3 revolutionizes data ownership, privacy, and user control. By the end of the course, you will be endowed with the knowledge and skills necessary to confidently navigate the decentralized web and leverage its transformative potential across multiple industries. Learn Web 3 now!</p>
+
+
+
+<h3 class="wp-block-heading">Course Content</h3>
+
+
+
+<ul>
+<li>History of the Web</li>
+
+
+
+<li>What is Blockchain &#8211; Immutability</li>
+
+
+
+<li>What is Blockchain &#8211; Distributed</li>
+
+
+
+<li>What is Blockchain &#8211; Bitcoin Example</li>
+
+
+
+<li>Exploring Bitcoin</li>
+
+
+
+<li>Distributed Ledgers</li>
+
+
+
+<li>The <a href="https://www.mycryptopedia.com/bitcoin-utxo-unspent-transaction-output-set-explained/" target="_blank" rel="noreferrer noopener">UTXO</a> Set</li>
+
+
+
+<li>Wallets, Addresses, and Privacy</li>
+
+
+
+<li>The Double Spend Problem</li>
+
+
+
+<li>Proof of Work</li>
+
+
+
+<li>The Cost of Proof of Work</li>
+
+
+
+<li>Proof of Stake</li>
+
+
+
+<li>Proof of Stake Walkthrough</li>
+
+
+
+<li><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer noopener">Ethereum</a></li>
+
+
+
+<li>Ethereum Accounts and Smart Contracts</li>
+
+
+
+<li><a href="https://ethereum.org/en/developers/docs/evm/" target="_blank" rel="noreferrer noopener">The Ethereum Virtual Machine</a></li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-1">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/category/blogs/" target="_blank" rel="noreferrer noopener">CHeck out our blogs</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<ul>
+<li>Cryptocurrency</li>
+
+
+
+<li>Coins vs Tokens, Storing Value, and Mine-ability</li>
+
+
+
+<li>Who Needs Cryptocurrency: Regulation and Inflation</li>
+
+
+
+<li>The Problem with Cryptocurrency</li>
+
+
+
+<li>Why Smart Contracts? (Web3 Use Cases for Smart Contracts)</li>
+
+
+
+<li>Real World Applications of of Blockchain</li>
+
+
+
+<li>Blockchain for Healthcare</li>
+
+
+
+<li>Transparency of Smart Contracts and Open Source</li>
+
+
+
+<li>DApps (Decentralized Applications)</li>
+
+
+
+<li>IPFS: InterPlanetary File System</li>
+
+
+
+<li>NFTs: Non-Fungible Tokens</li>
+
+
+
+<li>How NFTs Work</li>
+
+
+
+<li>Why NFTs?</li>
+
+
+
+<li>DAOs: Decentralized Autonomous Organization</li>
+
+
+
+<li>DAOs in Action</li>
+
+
+
+<li>The DAO Incident</li>
+
+
+
+<li>Forks and Upgrading the Blockchain</li>
+
+
+
+<li>The Metaverse</li>
+</ul>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/vkqasgksw9g5pyws0q3q6xhrjdceolbb" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-2">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/zk30k4gliqp8ezqu0tdyix2b3oep6g6u" target="_blank" rel="noreferrer noopener">Download this masterclass for free!!</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Web 3, also known as the decentralized web, is the internet&#8217;s next evolutionary step. It introduces a new paradigm of decentralization, transparency, and user control, in contrast to its antecedent, Web 2, which relied on centralized platforms and intermediaries. Also, Web 3 enables peer-to-peer interactions, data ownership, and enhanced privacy by leveraging emerging technologies such as blockchain and smart contracts. It promotes the development of decentralized applications (dApps), decentralized finance (DeFi), and digital identities, thereby revolutionizing online interaction, commerce, and collaboration. Adopting Web 3 creates opportunities for a more secure, inclusive, and user-centric digital ecosystem. Robin Hood Army bring you this masterclass to learn Web 3 for free!</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-3">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">Want to learn website development for free?</a></div>
+</div>
+<p>The post <a rel="nofollow" href="/learn-web-3/">Learn Web 3 Blockchain, DAO, DApps &#038; More</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
