@@ -8,8 +8,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/learn-web-3/</loc>
+		<lastmod>2023-06-27T04:00:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/bitcoin-cryptocurrency-crypto-3089728.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/roadmap-to-learn-ethical-hacking/</loc>
-		<lastmod>2023-06-26T22:03:33+00:00</lastmod>
+		<lastmod>2023-06-27T04:59:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/hacker-question-mark-hoodie-2883630.jpg</image:loc>
 		</image:image>
@@ -19,16 +26,36 @@
 	</url>
 	<url>
 		<loc>/roadmap-to-learn-web-development/</loc>
-		<lastmod>2023-06-26T22:10:01+00:00</lastmod>
+		<lastmod>2023-06-27T05:00:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/smart-home-computer-internet-3148026.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/learn-web-3/</loc>
-		<lastmod>2023-06-27T04:00:38+00:00</lastmod>
+		<loc>/learn-machine-learning/</loc>
+		<lastmod>2023-06-27T13:41:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/bitcoin-cryptocurrency-crypto-3089728.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/06/tech-circle-technology-5142625.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/woman-work-thinking-5888934.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/woman-blue-sci-fi-3560573.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/learn-node-with-react-fullstack-web-dev/</loc>
+		<lastmod>2023-06-30T08:08:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/web-macbook-air-1738168.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/roadmap-to-learn-kotlin/</loc>
+		<lastmod>2023-06-30T08:45:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/phone-display-apps-292994.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

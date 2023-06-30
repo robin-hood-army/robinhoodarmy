@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>learn node js Archives - Robin Hood Army</title>
+	<atom:link href="/tag/learn-node-js/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/learn-node-js/</link>
+	<description>Empowering Minds, For Free</description>
+	<lastBuildDate>Fri, 30 Jun 2023 08:08:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Learn Node with React Fullstack Web Dev</title>
+		<link>/learn-node-with-react-fullstack-web-dev/</link>
+		
+		<dc:creator><![CDATA[robin_hood_army]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 08:08:00 +0000</pubDate>
+				<category><![CDATA[Web Development]]></category>
+		<category><![CDATA[learn node js]]></category>
+		<category><![CDATA[Learn Node with React]]></category>
+		<category><![CDATA[learn react]]></category>
+		<category><![CDATA[learn web dev]]></category>
+		<category><![CDATA[learn web development]]></category>
+		<category><![CDATA[web dev full course]]></category>
+		<guid isPermaLink="false">/?p=941</guid>
+
+					<description><![CDATA[<p>Master full-stack web development with Node.js and React. Learn server-side architecture, authentication, database integration, and more. Build dynamic and scalable applications.</p>
+<p>The post <a rel="nofollow" href="/learn-node-with-react-fullstack-web-dev/">Learn Node with React Fullstack Web Dev</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Learn Node with React</h2>
+
+
+
+<p>This comprehensive course equips you with the skills to become a proficient full-stack web developer using Node.js and React. From server-side architecture to client-side development, you&#8217;ll learn authentication, database integration, handling payments, and more. Gain a strong foundation in full-stack web development to build dynamic and scalable applications. Now Learn Node with React with this extensive course.</p>
+
+
+
+<p>Note: This is just a brief overview of the course contents. The course will provide in-depth explanations, hands-on exercises, and practical examples to ensure your understanding and proficiency in each topic. Robin Hood Army brings you this masterclass on Learn Node with React Fullstack Web Dev for free!</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-1">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/category/blogs/" target="_blank" rel="noreferrer noopener">Check out our blogs</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Course Content</h3>
+
+
+
+<ul>
+<li>Course Overview</li>
+
+
+
+<li>Server Side Architecture</li>
+
+
+
+<li>Authentication with Google OAuth</li>
+
+
+
+<li>Adding MongoDB</li>
+
+
+
+<li>Dev VS Prod Environments</li>
+
+
+
+<li>Moving to the Client Side</li>
+
+
+
+<li>Developing the Client Side</li>
+
+
+
+<li>Handling Payments</li>
+
+
+
+<li>Back End to Front End routing in Production</li>
+
+
+
+<li>Mongoose for Survey Creation</li>
+
+
+
+<li>Back to the Client</li>
+
+
+
+<li>Handling Webhook Data</li>
+
+
+
+<li>The Home Stretch</li>
+</ul>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<iframe width="600" height="480" src="https://dooood.com/e/mda0ricvw5tcg86xtsvvrgv4icovdafa" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-2">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://dooood.com/d/ctqi5c26094l70vjyfo9hiaadvwi25rp" target="_blank" rel="noreferrer noopener">download</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-3">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/courses/" target="_blank" rel="noreferrer noopener">now learn anything for free!</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Node.js is a powerful and versatile JavaScript runtime environment that allows you to build server-side applications. It utilizes an event-driven, non-blocking I/O model, making it efficient and lightweight. With Node.js, you can develop scalable and high-performance web applications, APIs, real-time applications, and even command-line tools. Its extensive package ecosystem, facilitated by npm (Node Package Manager), provides a wealth of ready-to-use libraries and frameworks to streamline development. Node.js is highly popular among developers for its speed, flexibility, and ability to handle a large number of concurrent connections. Whether you&#8217;re a beginner or an experienced developer, learning Node.js opens up exciting possibilities for building robust and scalable back-end solutions.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-4">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/category/web-development/" target="_blank" rel="noreferrer noopener">learn more on web dev</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>React is a powerful JavaScript library for building dynamic and interactive user interfaces. It enables developers to create reusable UI components that efficiently update and render in response to data changes. With React&#8217;s declarative syntax, you can efficiently describe how your UI should look at any given time, making it easier to manage complex application state. React&#8217;s virtual DOM efficiently updates only the necessary parts of the user interface, resulting in fast and smooth performance. It also allows for easy integration with other libraries or existing projects. React&#8217;s popularity has soared due to its efficiency, flexibility, and extensive ecosystem of tools and libraries. Whether you&#8217;re building a small application or a large-scale web project, React empowers you to create rich, interactive, and highly responsive user interfaces with ease.</p>
+
+
+
+<h3 class="wp-block-heading">Some Useful Resources</h3>
+
+
+
+<ul>
+<li>Node.js Official Documentation: The official documentation provides in-depth information on Node.js, including guides, APIs, and examples. Visit: <a href="https://nodejs.org/docs/">https://nodejs.org/docs/</a></li>
+
+
+
+<li>React Official Documentation: The official React documentation offers comprehensive guides, tutorials, and API references for building applications with React. Visit: <a href="https://reactjs.org/docs/">https://reactjs.org/docs/</a></li>
+
+
+
+<li>MongoDB University: MongoDB University offers free online courses on MongoDB, including courses specifically focused on using MongoDB with Node.js. Visit: <a href="https://university.mongodb.com/">https://university.mongodb.com/</a></li>
+
+
+
+<li>Express.js Official Website: Express.js is a popular web application framework for Node.js. The official website provides documentation, guides, and examples to help you build robust and scalable web applications. Visit: <a href="https://expressjs.com/">https://expressjs.com/</a></li>
+
+
+
+<li>Mongoose Official Documentation: Mongoose is a powerful MongoDB object modeling tool for Node.js. The official documentation provides detailed guides and examples for working with MongoDB using Mongoose. Visit: <a href="https://mongoosejs.com/docs/">https://mongoosejs.com/docs/</a></li>
+
+
+
+<li>Stripe Documentation: Stripe is a widely used payment processing platform. Their documentation offers comprehensive guides and references for integrating and handling payments within your Node.js applications. Visit: <a href="https://stripe.com/docs">https://stripe.com/docs</a></li>
+</ul>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<p>The post <a rel="nofollow" href="/learn-node-with-react-fullstack-web-dev/">Learn Node with React Fullstack Web Dev</a> appeared first on <a rel="nofollow" href="/">Robin Hood Army</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
