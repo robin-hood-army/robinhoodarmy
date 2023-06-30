@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Home - Robin Hood Army</title>
+	<title>web dev roadmap Archives - Robin Hood Army</title>
 	<atom:link href="/tag/web-dev-roadmap/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/tag/web-dev-roadmap/</link>
 	<description>Empowering Minds, For Free</description>
 	<lastBuildDate>Tue, 27 Jun 2023 05:00:02 +0000</lastBuildDate>
 	<language>en-US</language>

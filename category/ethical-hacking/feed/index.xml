@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Home - Robin Hood Army</title>
+	<title>Ethical Hacking Archives - Robin Hood Army</title>
 	<atom:link href="/category/ethical-hacking/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/ethical-hacking/</link>
 	<description>Empowering Minds, For Free</description>
 	<lastBuildDate>Mon, 26 Jun 2023 15:01:17 +0000</lastBuildDate>
 	<language>en-US</language>
